@@ -1,0 +1,2 @@
+- Only build executable if sources changed.
+- Place built executable in BUILD_DIR.

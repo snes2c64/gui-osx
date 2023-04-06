@@ -31,12 +31,16 @@
 		4B5341CE29DC4F1900878F2C /* SNES2C64 */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = SNES2C64; sourceTree = "<group>"; };
 		4B5341D229DD926100878F2C /* build.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = build.sh; sourceTree = "<group>"; };
 		4B5341D629DEDB7900878F2C /* project.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = project.xcconfig; sourceTree = "<group>"; };
+		4B5341D729DEE01A00878F2C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4B5341D829DEE18400878F2C /* TODO.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TODO.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		4B5341B329DC4EDF00878F2C = {
 			isa = PBXGroup;
 			children = (
+				4B5341D729DEE01A00878F2C /* README.md */,
+				4B5341D829DEE18400878F2C /* TODO.md */,
 				4B5341D629DEDB7900878F2C /* project.xcconfig */,
 				4B5341BE29DC4EDF00878F2C /* SNES2C64 */,
 				4B5341BD29DC4EDF00878F2C /* Products */,
